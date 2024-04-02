@@ -1,0 +1,6 @@
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo_Now.Form1.resources
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo_Now.Properties.Resources.resources
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.csproj.GenerateResource.cache
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.csproj.CoreCompileInputs.cache
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.csproj.AssemblyReference.cache
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.pdb

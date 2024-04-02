@@ -1,0 +1,20 @@
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\bin\Release\Ludo Now.exe.config
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\bin\Release\Ludo Now.exe
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Release\Ludo_Now.Form1.resources
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Release\Ludo_Now.Properties.Resources.resources
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Release\Ludo Now.csproj.GenerateResource.cache
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Release\Ludo Now.csproj.CoreCompileInputs.cache
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Release\Ludo Now.exe
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Release\Ludo Now.pdb
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\bin\Debug\Ludo Now.exe.config
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\bin\Debug\Ludo Now.exe
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\bin\Debug\Ludo Now.pdb
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo_Now.Properties.Resources.resources
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.csproj.GenerateResource.cache
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.csproj.CoreCompileInputs.cache
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.csproj.AssemblyReference.cache
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.exe.config
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.exe
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo Now.pdb
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo_Now.Tabla.resources
+C:\Users\Rares\OneDrive\Desktop\Ludo Now\Ludo Now\obj\Debug\Ludo_Now.Inceput.resources
